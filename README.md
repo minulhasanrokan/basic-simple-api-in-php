@@ -1,2 +1,1 @@
-# basic-simple-api-in-php
-basic simple api in php
+An Application Programming Interface, or API, defines the classes, methods, functions and variables that your application will need to call in order to carry out its desired task. In the case of PHP applications that need to communicate with databases the necessary APIs are usually exposed via PHP extensions.
